@@ -1,5 +1,7 @@
+//Yeny Villalba
 //variables y condiciones
-let temperatura = 31
+
+let temperatura = 42
 if (temperatura > 30) console.log("hace calor")
 else console.log("hace frio")
 
